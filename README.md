@@ -26,9 +26,3 @@ Using **SQL pipelines** and **Power BI**, the dashboard provides a complete view
 - **Graduates** and **Postgraduates** formed the largest customer groups.  
 - Most transactions were processed via **Swipe ($36M)** compared to Chip ($17M) and Online ($4M).  
 
-## Tech Stack  
-- **SQL** – Data cleaning, transformation, and modeling  
-- **Power BI** – Dashboard creation and visualization  
-- **Excel** – Data preprocessing and validation  
-
-## Repository Structure  
